@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Profil Singkat</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    .profil {
+      border: 1px solid #b50d86;
+      padding: 20px;
+      max-width: 400px;
+      border-radius: 8px;
+    }
+    .profil img {
+      width: 100px;
+      border-radius: 50%;
+    }
+    .profil h2 {
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+
+<div class="profil">
+  <img src="nadia.jpeg" alt="Foto Profil">
+  <h2>Nama: nadia faradis</h2>
+  <p><strong>Profesi:</strong> mahasiswa</p>
+  <p><strong>Lokasi:</strong> sigli aceh, Indonesia</p>
+  <p><strong>Tentang Saya:</strong> Nadia Faradis adalah mahasiswa aktif program studi Teknik Informatika di Universitas Jabal Ghafur.
+     Memiliki latar belakang pendidikan di SMA Negeri 1 Peukan Baro, Nadia memiliki semangat tinggi dalam mempelajari dunia pemrograman
+      dan teknologi. Tujuan utamanya adalah mengembangkan diri di bidang IT dan memberikan kontribusi positif di masa depan,
+       serta membahagiakan kedua orang tua.</p>
+</div>
+
+</body>
+</html>
